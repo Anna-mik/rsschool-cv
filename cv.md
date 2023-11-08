@@ -1,8 +1,8 @@
 # Anna Mikheieva
 
 ## Contacts
-**Phone:** +49 176 41906570 
-**E-mail:** ann.mikheieva@gmail.com
+*Phone: +49 176 41906570 
+*E-mail: ann.mikheieva@gmail.com
 
 ## About Me:
 
@@ -12,7 +12,7 @@
 * JavaScript (Fundamentals
 * Git, GitHub
 * VS Code
-* Sigma
+* Figma
 
 ## Education
 * University: Belarusian National Technical University, Civil Engineering major
