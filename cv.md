@@ -5,11 +5,11 @@
 * E-mail: ann.mikheieva@gmail.com
 
 ## About Me:
-
+I am new to programming. I am currently actively learning and I am in love with it. I want to learn a new profession and enjoy my work.
 
 ## Skills 
 * HTML, CSS
-* JavaScript (Fundamentals
+* JavaScript Fundamentals
 * Git, GitHub
 * VS Code
 * Figma
