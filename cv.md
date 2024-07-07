@@ -16,20 +16,14 @@ I am new to programming and currently immersed in active learning, which I find 
 - Figma
 
 ## Example Code
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Hello World</title>
-</head>
-<body>
-    <h1>Hello, World!</h1>
-    <p>This is a sample HTML page.</p>
-</body>
-</html>
+```markdown
+```javascript
+function greet(name) {
+    return 'Hello, ' + name + '!';
+}
 
-# Anna Mikheieva
+console.log(greet('World'));
+
 
 ## Education
 
